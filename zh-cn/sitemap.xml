@@ -2,139 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://h0l1day117.github.io/</loc>
+    <lastmod>2025-04-26T14:21:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://h0l1day117.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://h0l1day117.github.io/"
+                />
+  </url><url>
+    <loc>https://h0l1day117.github.io/p/2025-04-26-tronyingping/</loc>
+    <lastmod>2025-04-26T14:21:08+08:00</lastmod>
+  </url><url>
+    <loc>https://h0l1day117.github.io/post/</loc>
+    <lastmod>2025-04-26T14:21:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://h0l1day117.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://h0l1day117.github.io/post/"
+                />
+  </url><url>
+    <loc>https://h0l1day117.github.io/page/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://h0l1day117.github.io/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/"
+                href="https://h0l1day117.github.io/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://h0l1day117.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h0l1day117.github.io/p/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/page/"
+                href="https://h0l1day117.github.io/en/p/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/page/"
+                href="https://h0l1day117.github.io/p/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/p/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/p/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/p/%E5%85%B3%E4%BA%8E/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://h0l1day117.github.io/categories/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://h0l1day117.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="https://h0l1day117.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://h0l1day117.github.io/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/placeholder-text/</loc>
+    <loc>https://h0l1day117.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tag-with-whitespaces/</loc>
+    <loc>https://h0l1day117.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://h0l1day117.github.io/tags/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://h0l1day117.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="https://h0l1day117.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://h0l1day117.github.io/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test-with-whitespaces/</loc>
+    <loc>https://h0l1day117.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
+    <loc>https://h0l1day117.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://h0l1day117.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/archives/"
+                href="https://h0l1day117.github.io/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/archives/"
+                href="https://h0l1day117.github.io/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://h0l1day117.github.io/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/links/"
+                href="https://h0l1day117.github.io/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/%E9%93%BE%E6%8E%A5/"
+                href="https://h0l1day117.github.io/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://h0l1day117.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/search/"
+                href="https://h0l1day117.github.io/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/search/"
+                href="https://h0l1day117.github.io/search/"
                 />
   </url>
 </urlset>
