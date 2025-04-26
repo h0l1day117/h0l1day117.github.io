@@ -10,7 +10,7 @@
 <meta property='og:description' content="">
 <meta property='og:url' content='https://h0l1day117.github.io/en/search/'>
 <meta property='og:site_name' content='h0l1day'>
-<meta property='og:type' content='article'><meta property='article:section' content='Page' />
+<meta property='og:type' content='article'><meta property='article:section' content='Page' /><meta property='article:modified_time' content='2025-04-26T14:03:42&#43;08:00'/>
 <meta name="twitter:site" content="@has___7">
     <meta name="twitter:creator" content="@has___7"><meta name="twitter:title" content="Search">
 <meta name="twitter:description" content=""><link rel="alternate" type="application/json" href="https://h0l1day117.github.io/en/search/index.json">
@@ -21,9 +21,7 @@
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
-            if(!localStorage.getItem(colorSchemeKey)){
-                localStorage.setItem(colorSchemeKey, "tron");
-            }
+            localStorage.setItem(colorSchemeKey, "dark");
         })();
     </script><script>
     (function() {
@@ -166,6 +164,25 @@
         
         
         <li >
+            <a href='/en/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
             <a href='/en/archives/' >
                 
                 
@@ -249,26 +266,6 @@
                 
 
                 
-                    <li id="dark-mode-toggle">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="8" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="16" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                        <span>Dark Mode</span>
-                    </li>
-                
             </ol>
         </li>
     </ol>
@@ -311,7 +308,7 @@
     
     <section class="powerby">
         
-            In there is our destiny. <br/>
+            <a href="https://github.com/h0l1day117/h0l1day117.github.io" target="_blank">Github repo of this site</a> <br/>
         Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
         Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
     </section>
@@ -336,6 +333,29 @@
         document.head.appendChild(customFont);
     }());
 </script>
+
+<style>
+  body {
+    background: url(https://h0l1day117.github.io/background/daftpunk2.jpg) no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+</style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script>
+const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    lrcType: 3
+    audio: [],
+    fixed: true
+});
+</script>
+
+
 
     </body>
 </html>

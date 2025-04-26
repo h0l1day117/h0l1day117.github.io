@@ -6,8 +6,27 @@
         <description>Recent content on h0l1day</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>holiday</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://h0l1day117.github.io/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>holiday</copyright><atom:link href="https://h0l1day117.github.io/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tron: Legacy movie review (WIP)</title>
+        <link>https://h0l1day117.github.io/en/p/tron-legacy-movie-review-wip/</link>
+        <pubDate>Sat, 26 Apr 2025 16:43:29 +0800</pubDate>
+        
+        <guid>https://h0l1day117.github.io/en/p/tron-legacy-movie-review-wip/</guid>
+        <description>&lt;p&gt;I watched &lt;em&gt;&lt;strong&gt;Tron: Legacy&lt;/strong&gt;&lt;/em&gt; twice weeks ago. Here&amp;rsquo;s my review.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tron: Legacy&lt;/strong&gt;&lt;/em&gt; is a movie about a young man named Sam Flynn, whose dad Kevin Flynn was the CEO of the world&amp;rsquo;s biggest technology company called ENCOM, and the developer of the world&amp;rsquo;s most popular video&lt;del&gt;arcade&lt;/del&gt; game &lt;em&gt;TRON&lt;/em&gt;, whose gameplay was 2 players drive their own &lt;em&gt;Light Cycles&lt;/em&gt; that can leave a light wall behind them, anyone touched the light wall left by their opponents will lose. Kevin Flynn disappeared in 1989 and nobody knows where he was. 20 years later Sam and his dad&amp;rsquo;s old friend, one of the leader of ENCOM Alan, recieved a &lt;em&gt;page&lt;/em&gt; from Kevin&amp;rsquo;s office in his forsaken arcade &lt;em&gt;FLYNN&amp;rsquo;S ARCADE&lt;/em&gt;. So Sam went there and went into Kevin&amp;rsquo;s &lt;em&gt;THE GRID&lt;/em&gt; world by accident, trying to find out the truth of the mysterious world created by his dad.&lt;/p&gt;
+&lt;p&gt;One night in 1989, Kevin is telling the story of &lt;em&gt;THE GRID&lt;/em&gt; to his six-year-old son Sam. He introduced his partners there named &lt;strong&gt;TRON&lt;/strong&gt; and &lt;strong&gt;CLU&lt;/strong&gt;, the former is a brave worrior who fights for users, and the latter is a program in his own image that can think like humans. They built a system where all information is free and open. After that, he &lt;em&gt;goes to work&lt;/em&gt; and disappears.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://h0l1day117.github.io/en/about/</link>
+        <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://h0l1day117.github.io/en/about/</guid>
+        <description>&lt;h1 id=&#34;nothing-much&#34;&gt;NOTHING MUCH
+&lt;/h1&gt;</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://h0l1day117.github.io/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -16,11 +35,11 @@
         <description></description>
         </item>
         <item>
-        <title>About</title>
-        <link>https://h0l1day117.github.io/en/p/about/</link>
+        <title>About Hugo</title>
+        <link>https://h0l1day117.github.io/en/p/about-hugo/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://h0l1day117.github.io/en/p/about/</guid>
+        <guid>https://h0l1day117.github.io/en/p/about-hugo/</guid>
         <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
