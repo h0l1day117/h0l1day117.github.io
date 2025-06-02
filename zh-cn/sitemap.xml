@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://h0l1day117.github.io/p/2025-06-2-denukecs2update1/</loc>
+    <lastmod>2025-06-02T23:46:27+08:00</lastmod>
+  </url><url>
+    <loc>https://h0l1day117.github.io/post/</loc>
+    <lastmod>2025-06-02T23:46:27+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://h0l1day117.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://h0l1day117.github.io/post/"
+                />
+  </url><url>
     <loc>https://h0l1day117.github.io/p/%E5%88%9B%E6%88%98%E7%BA%AA%E5%BD%B1%E8%AF%84%E6%9C%AA%E5%AE%8C%E5%B7%A5/</loc>
     <lastmod>2025-04-26T18:35:19+08:00</lastmod>
     <xhtml:link
@@ -13,19 +29,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://h0l1day117.github.io/p/%E5%88%9B%E6%88%98%E7%BA%AA%E5%BD%B1%E8%AF%84%E6%9C%AA%E5%AE%8C%E5%B7%A5/"
-                />
-  </url><url>
-    <loc>https://h0l1day117.github.io/post/</loc>
-    <lastmod>2025-04-26T18:35:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://h0l1day117.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://h0l1day117.github.io/post/"
                 />
   </url><url>
     <loc>https://h0l1day117.github.io/page/</loc>
